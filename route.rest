@@ -1,0 +1,14 @@
+// index
+# http://localhost:4000/
+
+// show: about
+http://localhost:4000/about
+
+//show: habits
+# http://localhost:4000/habits
+
+// show: goals
+# http://localhost:4000/goals
+
+// show: time management
+# http://localhost:4000/timeManagement

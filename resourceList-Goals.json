@@ -1,0 +1,26 @@
+[
+	{
+	"qr": "https://www.qrcode.com/thisLink.format",
+  	"name": "Resource 1 Name",
+    "Link": "https://somelink.com",
+    "type": "Ebook/Podcast/Video/Worksheet",
+  	"description": "This is where category description will go",
+	"email": "yes/no"
+	},
+	{
+	"qr": "https://www.qrcode.com/thisLink.format",
+  	"name": "Resource 2 Name",
+    "Link": "https://somelink.com",
+    "type": "Ebook/Podcast/Video/Worksheet",
+  	"description": "This is where category description will go",
+	"email": "yes/no"
+	},
+	{
+	"qr": "https://www.qrcode.com/thisLink.format",
+  	"name": "Resource 3 Name",
+    "Link": "https://somelink.com",
+    "type": "Ebook/Podcast/Video/Worksheet",
+  	"description": "This is where category description will go",
+	"email": "yes/no"
+	}
+]

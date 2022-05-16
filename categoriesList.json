@@ -1,0 +1,17 @@
+[
+	{
+  	"name": "Category 1 Name",
+    "link": "https://somelink.com",
+  	"description": "This is where category description will go"
+	},
+	{
+  	"name": "Category 2 Name",
+      "link": "https://somelink.com",
+  	"description": "This is where category description will go"
+	},
+	{
+  	"name": "Category 3 Name",
+      "link": "https://somelink.com",
+  	"description": "This is where category description will go"
+	}
+]
