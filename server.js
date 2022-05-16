@@ -12,7 +12,7 @@ const app = express();
 app.use(cors());
 
 app.get("/", (req, res) => {
-    res.send("Hello World");
+    res.redirect("/home");
 });
 
 app.get("/home", (req, res) => {
