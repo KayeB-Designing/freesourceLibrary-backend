@@ -13,24 +13,28 @@ app.use(cors());
 
 app.get("/", (req, res) => {
     res.send("Hello World");
-  });
+});
 
-  app.get("/about", (req, res) => {
+app.get("/home", (req, res) => {
+    res.json(categoriesList);
+});
+
+app.get("/about", (req, res) => {
     res.json(about);
-  });
+});
 
 app.get("/timeManagement", (req, res) => {
     res.json(timeManagement);
-  });
+});
 
-  app.get("/goals", (req, res) => {
+app.get("/goals", (req, res) => {
     res.json(goals);
-  });
+});
 
-  app.get("/habits", (req, res) => {
+app.get("/habits", (req, res) => {
     res.json(habits);
-  });
+});
   
-  const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 4000;
   
-  app.listen(PORT, () => console.log(`Listening on PORT: ${PORT}`));
+app.listen(PORT, () => console.log(`Listening on PORT: ${PORT}`));

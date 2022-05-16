@@ -1,14 +1,23 @@
-// index
+// root
 # http://localhost:4000/
+# https://freesource-library.herokuapp.com/
+
+// index
+# http://localhost:4000/home
+# https://freesource-library.herokuapp.com/home
 
 // show: about
-http://localhost:4000/about
+# http://localhost:4000/about
+# https://freesource-library.herokuapp.com/about
 
 //show: habits
 # http://localhost:4000/habits
+# https://freesource-library.herokuapp.com/habits
 
 // show: goals
 # http://localhost:4000/goals
+# https://freesource-library.herokuapp.com/goals
 
 // show: time management
 # http://localhost:4000/timeManagement
+https://freesource-library.herokuapp.com/timeManagement
