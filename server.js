@@ -15,9 +15,9 @@ app.get("/", (req, res) => {
     res.redirect("/home");
 });
 
-app.get("/index.html", (req, res) => {
-    res.redirect("/home");
-});
+// app.get("/index", (req, res) => {
+//     res.redirect("/home");
+// });
 
 app.get("/home", (req, res) => {
     res.json(categoriesList);
