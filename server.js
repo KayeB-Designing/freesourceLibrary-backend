@@ -33,7 +33,7 @@ app.get("/timeManagement", (req, res) => {
 });
 
 app.get("/goals/pdf", (req, res) => {
-    res.json(goals);
+    res.render(goals);
 });
 
 app.get("/goals", (req, res) => {
