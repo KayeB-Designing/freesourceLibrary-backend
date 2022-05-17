@@ -2,7 +2,7 @@
 	{
 	"qr": "https://thumbs2.imgbox.com/d8/ad/dYkgicVP_t.png",
   	"name": "Resource 1 Name",
-    "route": "goals",
+    "Link": "https://someLink.com",
     "type": "Ebook/Podcast/Video/Worksheet",
   	"description": "This is where category description will go",
 	"email": "yes/no"
@@ -10,7 +10,7 @@
 	{
 	"qr": "https://thumbs2.imgbox.com/d8/ad/dYkgicVP_t.png",
   	"name": "Resource 2 Name",
-    "route": "https://someroute.com",
+    "Link": "https://someLink.com",
     "type": "Ebook/Podcast/Video/Worksheet",
   	"description": "This is where category description will go",
 	"email": "yes/no"
@@ -18,7 +18,7 @@
 	{
 	"qr": "https://thumbs2.imgbox.com/d8/ad/dYkgicVP_t.png",
   	"name": "Resource 3 Name",
-    "route": "https://someroute.com",
+    "Link": "https://someLink.com",
     "type": "Ebook/Podcast/Video/Worksheet",
   	"description": "This is where category description will go",
 	"email": "yes/no"
