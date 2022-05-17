@@ -32,13 +32,15 @@ app.get("/timeManagement", (req, res) => {
     res.json(timeManagement);
 });
 
+app.get("/goals/pdf", (req, res) => {
+    res.json(goals);
+});
+
 app.get("/goals", (req, res) => {
     res.json(goals);
 });
 
-app.get("/goals/pdf", (req, res) => {
-    res.json(goals);
-});
+
 
 app.get("/habits", (req, res) => {
     res.json(habits);
