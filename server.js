@@ -15,9 +15,9 @@ app.get("/", (req, res) => {
     res.redirect("/home");
 });
 
-// app.get("/index.html", (req, res) => {
-//     res.redirect("/home");
-// });
+app.get("/index.html", (req, res) => {
+    res.redirect("/home");
+});
 
 app.get("/home", (req, res) => {
     res.json(categoriesList);
@@ -32,9 +32,6 @@ app.get("/timeManagement", (req, res) => {
     res.json(timeManagement);
 });
 
-app.get("/goals/pdf", (req, res) => {
-    res.render(goals);
-});
 
 app.get("/goals", (req, res) => {
     res.json(goals);
