@@ -17,6 +17,7 @@ app.get("/", (req, res) => {
 
 app.get("/home", (req, res) => {
     res.json(categoriesList);
+    console.log(`categoriesList: ${categoriesList}`)
 });
 
 app.get("/about", (req, res) => {
