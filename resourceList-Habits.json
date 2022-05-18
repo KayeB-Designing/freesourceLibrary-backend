@@ -20,7 +20,7 @@
   	"name": "A Simple Way to Break a Bad Habit -Judson Brewer",
     "Link": "https://www.youtube.com/watch?v=-moW9jvvMr4",
     "type": "Video",
-  	"description": "Ted Talk Video roughly 10 minutes long",
+  	"description": "Ted Talk Video roughly 10 minutes long.",
 	"email": "no"
 	},
 	{
@@ -28,7 +28,7 @@
   	"name": "Try Something New for 30 Days -Matt Cutts",
     "Link": "https://www.youtube.com/watch?v=UNP03fDSj1U",
     "type": "Video",
-  	"description": "Ted Talk Video roughly 3 minutes long",
+  	"description": "Ted Talk Video roughly 3 minutes long.",
 	"email": "no"
 	}
 ]

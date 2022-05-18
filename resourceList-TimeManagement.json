@@ -1,26 +1,26 @@
 [
 	{
-	"qr": "https://thumbs2.imgbox.com/d8/ad/dYkgicVP_t.png",
-  	"name": "Resource 1 Name",
-    "Link": "https://somelink.com",
-    "type": "Ebook/Podcast/Video/Worksheet",
-  	"description": "This is where category description will go",
-	"email": "yes/no"
+	"qr": "https://thumbs2.imgbox.com/f5/e0/LJxW0ZNJ_t.png",
+  	"name": "Inside the Mind of the Master Procrastinator -Tim Urban",
+    "Link": "https://www.youtube.com/watch?v=arj7oStGLkU&t=2s",
+    "type": "Video",
+  	"description": "Ted Talk Video roughly 14 minutes long.",
+	"email": "no"
 	},
 	{
-	"qr": "https://thumbs2.imgbox.com/d8/ad/dYkgicVP_t.png",
-  	"name": "Resource 2 Name",
-    "Link": "https://somelink.com",
-    "type": "Ebook/Podcast/Video/Worksheet",
-  	"description": "This is where category description will go",
-	"email": "yes/no"
+	"qr": "https://thumbs2.imgbox.com/63/32/ARAZoMfq_t.png",
+  	"name": "15 Time Management Worksheets -Developing Good Habits",
+    "Link": "https://www.developgoodhabits.com/time-management-worksheets/#15_Time_Management_Worksheet_Examples",
+    "type": "Worksheet",
+  	"description": "15 downloadable & printable Time Management Worksheets.",
+	"email": "no"
 	},
 	{
-	"qr": "https://thumbs2.imgbox.com/d8/ad/dYkgicVP_t.png",
-  	"name": "Resource 3 Name",
-    "Link": "https://somelink.com",
-    "type": "Ebook/Podcast/Video/Worksheet",
-  	"description": "This is where category description will go",
-	"email": "yes/no"
+	"qr": "https://thumbs2.imgbox.com/3c/d1/H046BHYm_t.png",
+  	"name": "Before Breakfast -Laura Vanderkam",
+    "Link": "https://open.spotify.com/show/161WEFePuMUed0EZ30bK2l",
+    "type": "Podcast",
+  	"description": "This podcast is hosted on Spotify and is free to listen with ads after account sign up",
+	"email": "yes"
 	}
 ]

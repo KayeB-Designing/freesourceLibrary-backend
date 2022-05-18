@@ -1,26 +1,26 @@
 [
 	{
-	"qr": "https://thumbs2.imgbox.com/d8/ad/dYkgicVP_t.png",
-  	"name": "Resource 1 Name",
-    "Link": "https://someLink.com",
-    "type": "Ebook/Podcast/Video/Worksheet",
-  	"description": "This is where category description will go",
-	"email": "yes/no"
+	"qr": "https://thumbs2.imgbox.com/04/6f/qZwrI25w_t.png",
+  	"name": "Goal Setting Workbook -WiseGoals",
+    "Link": "https://www.wisegoals.com/free-goal-setting-ebook.html",
+    "type": "Ebook/Workbook",
+  	"description": "21 page downloadable work book for goal setting.",
+	"email": "no"
 	},
 	{
-	"qr": "https://thumbs2.imgbox.com/d8/ad/dYkgicVP_t.png",
-  	"name": "Resource 2 Name",
-    "Link": "https://someLink.com",
-    "type": "Ebook/Podcast/Video/Worksheet",
-  	"description": "This is where category description will go",
-	"email": "yes/no"
+	"qr": "https://thumbs2.imgbox.com/31/f4/cuFcSqnj_t.png",
+  	"name": "The Power of Believing You Can Improve -Carol Dweck",
+    "Link": "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en",
+    "type": "Video",
+  	"description": "Ted Talk Video roughly 10 minutes long",
+	"email": "no"
 	},
 	{
-	"qr": "https://thumbs2.imgbox.com/d8/ad/dYkgicVP_t.png",
-  	"name": "Resource 3 Name",
-    "Link": "https://someLink.com",
-    "type": "Ebook/Podcast/Video/Worksheet",
-  	"description": "This is where category description will go",
-	"email": "yes/no"
+	"qr": "https://thumbs2.imgbox.com/5d/8f/IX4YKBwg_t.png",
+  	"name": "The Goal Digger Podcast -Jenna Kutcher",
+    "Link": "https://open.spotify.com/show/0U11V31OMwksj3mg8gS0jX",
+    "type": "Podcast",
+  	"description": "This podcast is hosted on Spotify and is free to listen with ads after account sign up.",
+	"email": "yes"
 	}
 ]
