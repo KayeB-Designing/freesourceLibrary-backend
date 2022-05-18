@@ -15,13 +15,8 @@ app.get("/", (req, res) => {
     res.redirect("/home");
 });
 
-// app.get("/index", (req, res) => {
-//     res.redirect("/goals");
-// });
-
 app.get("/home", (req, res) => {
     res.json(categoriesList);
-    // console.log(`categoriesList: ${categoriesList}`)
 });
 
 app.get("/about", (req, res) => {
@@ -36,8 +31,6 @@ app.get("/timeManagement", (req, res) => {
 app.get("/goals", (req, res) => {
     res.json(goals);
 });
-
-
 
 app.get("/habits", (req, res) => {
     res.json(habits);
