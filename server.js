@@ -21,7 +21,7 @@ app.get("/", (req, res) => {
 
 app.get("/home", (req, res) => {
     res.json(categoriesList);
-    console.log(`categoriesList: ${categoriesList}`)
+    // console.log(`categoriesList: ${categoriesList}`)
 });
 
 app.get("/about", (req, res) => {
@@ -31,12 +31,6 @@ app.get("/about", (req, res) => {
 app.get("/timeManagement", (req, res) => {
     res.json(timeManagement);
 });
-
-
-app.get("/goals/pdf", (req, res) => {
-    res.render('goals.ejs');
-});
-
 
 
 app.get("/goals", (req, res) => {
