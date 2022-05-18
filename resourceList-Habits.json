@@ -1,26 +1,34 @@
 [
 	{
 	"qr": "https://thumbs2.imgbox.com/d8/ad/dYkgicVP_t.png",
-  	"name": "Resource 1 Name",
-    "Link": "https://somelink.com",
-    "type": "Ebook/Podcast/Video/Worksheet",
-  	"description": "This is where category description will go",
-	"email": "yes/no"
+  	"name": "Atomic Habits -James Clear",
+    "Link": "https://instapdf.in/atomic-habits/amp/",
+    "type": "Ebook",
+  	"description": "Download this Ebook as a 260page pdf.",
+	"email": "no"
 	},
 	{
 	"qr": "https://thumbs2.imgbox.com/d8/ad/dYkgicVP_t.png",
-  	"name": "Resource 2 Name",
-    "Link": "https://somelink.com",
-    "type": "Ebook/Podcast/Video/Worksheet",
-  	"description": "This is where category description will go",
-	"email": "yes/no"
+	"name": "Atomic Habits Workalong PDF",
+	"Link": "https://www.101planners.com/atomic-habits/#Atomic_Habits_Worksheets_PDF_-_23_Pages",
+	"type": "Worksheet",
+	"description": "This downloadable & printable journal has 23 pages of Atomic Habits worksheets in PDF format.",
+	"email": "no"
 	},
 	{
 	"qr": "https://thumbs2.imgbox.com/d8/ad/dYkgicVP_t.png",
-  	"name": "Resource 3 Name",
-    "Link": "https://somelink.com",
-    "type": "Ebook/Podcast/Video/Worksheet",
-  	"description": "This is where category description will go",
-	"email": "yes/no"
+  	"name": "A Simple Way to Break a Bad Habit -Judson Brewer",
+    "Link": "https://www.youtube.com/watch?v=-moW9jvvMr4",
+    "type": "Video",
+  	"description": "Ted Talk Video roughly 10 minutes long",
+	"email": "no"
+	},
+	{
+	"qr": "https://thumbs2.imgbox.com/d8/ad/dYkgicVP_t.png",
+  	"name": "Try Something New for 30 Days -Matt Cutts",
+    "Link": "https://www.youtube.com/watch?v=UNP03fDSj1U",
+    "type": "Video",
+  	"description": "Ted Talk Video roughly 3 minutes long",
+	"email": "no"
 	}
 ]
