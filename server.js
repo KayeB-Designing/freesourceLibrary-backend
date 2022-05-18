@@ -16,7 +16,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/index", (req, res) => {
-    res.redirect("/home");
+    res.redirect("/goals");
 });
 
 app.get("/home", (req, res) => {
