@@ -15,9 +15,9 @@ app.get("/", (req, res) => {
     res.redirect("/home");
 });
 
-app.get("/index", (req, res) => {
-    res.redirect("/goals");
-});
+// app.get("/index", (req, res) => {
+//     res.redirect("/goals");
+// });
 
 app.get("/home", (req, res) => {
     res.json(categoriesList);
@@ -31,6 +31,12 @@ app.get("/about", (req, res) => {
 app.get("/timeManagement", (req, res) => {
     res.json(timeManagement);
 });
+
+
+app.get("/goals/pdf", (req, res) => {
+    res.render('goals.ejs');
+});
+
 
 
 app.get("/goals", (req, res) => {
