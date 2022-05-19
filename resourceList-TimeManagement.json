@@ -5,7 +5,7 @@
     "Link": "https://www.youtube.com/watch?v=arj7oStGLkU&t=2s",
     "type": "Video",
   	"description": "Ted Talk Video roughly 14 minutes long.",
-	"email": "no"
+	"email": "No"
 	},
 	{
 	"qr": "https://thumbs2.imgbox.com/a5/d7/Cs3DAizw_t.jpg",
@@ -13,7 +13,7 @@
     "Link": "https://www.developgoodhabits.com/time-management-worksheets/#15_Time_Management_Worksheet_Examples",
     "type": "Worksheet",
   	"description": "15 downloadable & printable Time Management Worksheets.",
-	"email": "no"
+	"email": "No"
 	},
 	{
 	"qr": "https://thumbs2.imgbox.com/4a/6e/yhLtBYPH_t.jpg",
@@ -21,6 +21,6 @@
     "Link": "https://open.spotify.com/show/161WEFePuMUed0EZ30bK2l",
     "type": "Podcast",
   	"description": "This podcast is hosted on Spotify and is free to listen with ads after account sign up",
-	"email": "yes"
+	"email": "Yes"
 	}
 ]

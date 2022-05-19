@@ -5,7 +5,7 @@
     "Link": "https://www.wisegoals.com/free-goal-setting-ebook.html",
     "type": "Ebook/Workbook",
   	"description": "21 page downloadable work book for goal setting.",
-	"email": "no"
+	"email": "No"
 	},
 	{
 	"qr": "https://thumbs2.imgbox.com/81/9e/HBqBa8mR_t.png",
@@ -13,7 +13,7 @@
     "Link": "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en",
     "type": "Video",
   	"description": "Ted Talk Video roughly 10 minutes long",
-	"email": "no"
+	"email": "No"
 	},
 	{
 	"qr": "https://thumbs2.imgbox.com/95/ef/eb6fvoXq_t.jpg",
@@ -21,6 +21,6 @@
     "Link": "https://open.spotify.com/show/0U11V31OMwksj3mg8gS0jX",
     "type": "Podcast",
   	"description": "This podcast is hosted on Spotify and is free to listen with ads after account sign up.",
-	"email": "yes"
+	"email": "Yes"
 	}
 ]

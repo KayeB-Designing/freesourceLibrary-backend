@@ -27,7 +27,6 @@ app.get("/timeManagement", (req, res) => {
     res.json(timeManagement);
 });
 
-
 app.get("/goals", (req, res) => {
     res.json(goals);
 });
